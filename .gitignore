@@ -5,3 +5,5 @@ topsolver
 *.html
 *.css
 *.gif
+dist
+*.swp
