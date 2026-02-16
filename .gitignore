@@ -7,3 +7,5 @@ topsolver
 *.gif
 dist
 *.swp
+/dist-newstyle
+.DS_Store
